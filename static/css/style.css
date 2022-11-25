@@ -1,5 +1,10 @@
 #logo {
-    font-size: 2em;
+    font-size: 3em;
+    margin-left: 1em;
+}
+
+#navbar-color {
+    background-color: aqua;
 }
 
 #navbar-links {
